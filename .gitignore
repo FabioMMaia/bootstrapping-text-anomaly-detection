@@ -216,3 +216,21 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# LaTeX files
+*.tex
+*.aux
+*.log
+*.out
+*.toc
+*.bbl
+*.blg
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+
+# Nested thesis repo
+multilingual-tad-thesis/
+
+# Experiments (notebooks/results kept locally only)
+experiments/
